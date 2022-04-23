@@ -1,0 +1,49 @@
+body{ 
+    background-color: #051418;
+}
+h2{
+    color: aliceblue;
+    margin-top: 2rem;
+    margin-left: 40%;
+    margin-bottom: 2rem;
+}
+.pic{
+    margin-left: 33.3rem;
+}
+.anay{
+    margin-left: 2rem;
+}
+.img{
+    margin-left: 4rem;
+    margin-top: 4rem;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    object-fit: contain;
+    object-position: initial;
+    filter: none;
+}
+.btn{
+    position: relative;
+    hyphens: none;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 2rem;
+    line-height: 1.5;
+    width: 100%;
+    font-weight: 500;
+    font-size: 14px;
+}
+.bbtn{
+    height: 3rem;
+    width: 50%;
+    background: #051418;
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin-left: 3.5rem;
+    border-radius: 10rem;
+    border-color: black;
+    
+}
